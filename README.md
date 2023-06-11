@@ -1,6 +1,6 @@
 # Anchor Self-Localization
 
-> **_NOTE:_**  This repository is work in progress and more code will be added over the following days/weeks.
+> **_NOTE:_**  This repository is work in progress and more data, code, and instructions will be added over the following days/weeks.
 
 This repository contains the source code and datasets of our paper 
 **Self-Localization of Ultra-wideband Anchors: From Theory to Practice**

@@ -1,1 +1,17 @@
+# Common files
+*~
+*.bin
+*.elf
+*.a
+*.o
+*.map
+*.d
+*.hex
+*.pyc
 *.DS_Store
+*.swp
+*.log
+
+# Platform specific
+*.evb1000
+obj_evb1000/*
