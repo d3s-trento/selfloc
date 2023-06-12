@@ -28,10 +28,28 @@ floor of the University of Trento. The area is L-shaped, with two
 nearly-separated areas connected only by a few NLoS links.
 ![UNITN Reception](https://github.com/d3s-trento/selfloc/blob/main/img/unitn-reception-talla.png "UNITN Reception")
 
+The true positions of the anchor nodes can be found in
+[selfloc/sw/deployments](https://github.com/d3s-trento/selfloc/tree/main/sw/deployments).
+
 DEPARTMENT and RECEPTION are now part of the public
 [CLOVES IoT Testbed](https://iottestbed.disi.unitn.it/cloves/) at the
 University of Trento, which you can use right away following
 [this page](https://iottestbed.disi.unitn.it/cloves/getting-started/).
+
+
+## Repository Structure
+```
+.
+├── README.md
+├── data: ranging and connectivity data from the the three testbeds
+│   ├── department
+│   ├── plant
+│   └── reception
+├── img: image files used in this README.md and clean images to draw testbed maps
+└── sw
+    ├── deployments: true positions of testbed nodes
+
+```
 
 ## Publications
 
